@@ -8,5 +8,6 @@
     "strict": true,
     "skipLibCheck": true,
     "verbatimModuleSyntax": false
-  }
+  },
+  "exclude": ["prisma.config.ts", "node_modules"]
 }
